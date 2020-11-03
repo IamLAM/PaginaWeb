@@ -1,2 +1,2 @@
 # PaginaWeb
- Es un proyecto que tiener bootstrap, HTML y CSS
+ Es un proyecto que tiene bootstrap, HTML y CSS
